@@ -16,5 +16,3 @@ with open ('100MostStreamedSongs.csv') as csv_file:
     song_file = open(joining, 'w')
     song_file.write('')
     song_file.close()
-
-
